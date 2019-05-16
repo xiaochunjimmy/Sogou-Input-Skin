@@ -26,7 +26,7 @@
 
 ### 3. Graphite 石墨
 
-![Graphite](http://cdn.remixcdn.com/image/graphite-preview.png)
+![Graphite](http://cdn.remixcdn.com/image/graphite-cover-img.png)
 
 > Graphite 石墨是最近才制作的皮肤，它的设计初衷是“简单，尽可能简单”，希望最终呈现给用户的感受是“没有设计”，就像毫尖蘸墨轻拂宣纸一般自然纯粹，配色采用黑与白（考虑对比度过于强烈带来的视觉疲劳，没有采用纯黑），黑如墨，白如纸，取名石墨。
 
