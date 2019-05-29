@@ -36,7 +36,9 @@
 
 ## 使用方法
 
-下载本项目，找到mssf文件，双击即可完成皮肤安装和切换。（仅支持Mac版本，另外没安装搜狗输入法的同学不要凑热闹）  
+方法一：下载本项目，找到 mssf 文件，双击即可完成皮肤安装和切换。
+
+方法二：如果方法一没有成功，可以通过打开搜狗输入法的的 [偏好设置]，然后再最顶部 Tab 栏选择 [外观]，然后点击左下角的 [+] 加号按钮，从本地目录里选择 mssf 文件就可以了（感谢 [J3n5en](https://github.com/J3n5en) 同学在 [issue](https://github.com/xiaochunjimmy/Sogou-Input-Skin/issues/1) 中提醒）。
 
 完成上面的部分，基本的安装工作就已经完成了，如果你使用搜狗输入法的卷轴模式的话，可以往下看：
 
@@ -70,9 +72,10 @@
 
 可以使用上面的皮肤编辑器打开我的皮肤.mssf文件，在此基础上二次调整。也可以参考我的皮肤尺寸进行素材的设计。
 
-如果还有什么疑问，或者有什么建议，可以在 GitHub 上 创建 issue来反馈提问。也可以到 [Spectrum] https://spectrum.chat/remixdesign?tab=chat 同我交流，这是一个类似于 Slack 的在 Team 线沟通工具。
+如果还有什么疑问，或者有什么建议，可以在 GitHub 上 创建 issue来反馈提问。也可以到 [Spectrum]( https://spectrum.chat/remixdesign?tab=chat) 同我交流，这是一个类似于 Slack 的在 Team 线沟通工具。
 
 </br>
-</br>
 
-如果你喜欢我的皮肤，可以在GitHub本项目右上角点一下 Star 来支持我（Star 一般用于支持，也常被 GitHub 用户作为收藏操作，开源精神也需要精神支持）。
+## 开源精神也需要精神支持
+
+如果你喜欢我的皮肤，可以在 GitHub 本项目右上角点一下 Star 来支持我（Star 一般用于支持，也常被 GitHub 用户作为收藏操作）。
