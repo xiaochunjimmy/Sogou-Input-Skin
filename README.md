@@ -66,7 +66,7 @@
 
 1. 在finder浏览器下按 `Command` + `Shift` + `G` 打开跳转窗口，然后在文本框内输入 `/Library/Input Methods/SogouInput.app/Contents/Resources` 后敲回车，就打开了搜狗输入法的资源文件目录。
 
-2.  将目录中的 `SystemSkins.plist`，替换为本项目中的[同名文件](https://github.com/xiaochunjimmy/Sogou-Input-Skin/blob/master/SystemSkins.plist)，替换后重新切换一下皮肤即可。
+2. 将资源目录中的 `SystemSkins.plist`，替换为本项目列表中的[同名文件 SystemSkins.plist](https://github.com/xiaochunjimmy/Sogou-Input-Skin/blob/master/SystemSkins.plist)，替换后重新切换一下皮肤即可。
 
    > 本文件是在最新的（2019年5月12日）白名单皮肤基础上，添加了以上几个皮肤。其他没有修改。或者你也可以提前备份一下原来的文件。
 
