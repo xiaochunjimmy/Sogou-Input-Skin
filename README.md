@@ -14,7 +14,7 @@
 
 ![Tron](https://cdn.remixcdn.com/image/tron-cover.png)
 
-> Tron是我使用最久的一款皮肤，名称源自于我非常喜欢的一部视觉大片《Tron: Legacy》(中文名称《创: 战纪》)，如果用两个颜色来代表科技感，那么它一定是蓝色和白色，正如《Tron》系列。色彩上采用饱和度较高的蓝色，彰显其个性与特点。
+> Tron 是我使用最久的一款皮肤，名称源自于我非常喜欢的一部视觉大片《Tron: Legacy》(中文名称《创: 战纪》)，如果用两个颜色来代表科技感，那么它一定是蓝色和白色，正如《Tron》系列。色彩上采用饱和度较高的蓝色，彰显其个性与特点。
 
 </br>
 
@@ -22,7 +22,7 @@
 
 ![Tangerine](https://cdn.remixcdn.com/image/tangerine-cover.png)
 
-> Tangerine名称取自于同名电影《Tangerine》(中文名称《橘色》)，比较值得一提的是，本电影全程用 iPhone5s 拍摄，后期通过手机 App 进行调色。并不是因为导演像陈可辛、贾樟柯一样在给苹果打广告，是因为导演真穷，买不起专业设备，可能连防抖云台都买不起，所以画面也有点抖。题材比较敏感，剧情不好评价，感兴趣的小伙伴自己感受一下。
+> Tangerine 名称取自于同名电影《Tangerine》(中文名称《橘色》)，比较值得一提的是，本电影全程用 iPhone5s 拍摄，后期通过手机 App 进行调色。并不是因为导演像陈可辛、贾樟柯一样在给苹果打广告，是因为导演真穷，买不起专业设备，可能连防抖云台都买不起，所以画面也有点抖。题材比较敏感，剧情不好评价，感兴趣的小伙伴自己感受一下。
 
 </br>
 
@@ -30,13 +30,31 @@
 
 ![Graphite](https://cdn.remixcdn.com/image/graphite-cover.png)
 
-> Graphite 石墨是最近才制作的皮肤，也是我最近一直在用的皮肤，它的设计初衷就是“尽可能简单”，希望最终呈现给用户的感受是“没有设计”，就像毫尖蘸墨轻拂宣纸一般自然纯粹，配色采用黑与白（考虑对比度过于强烈带来的视觉疲劳，没有采用纯黑），黑如墨，白如纸，取名石墨。
+> Graphite 石墨 是最近才制作的皮肤，也是我最近一直在用的皮肤，它的设计初衷就是“尽可能简单”，希望最终呈现给用户的感受是“没有设计”，就像毫尖蘸墨轻拂宣纸一般自然纯粹，配色采用黑与白（考虑对比度过于强烈带来的视觉疲劳，没有采用纯黑），黑如墨，白如纸，取名石墨。
 
 </br>
 
+`2019年6月13日新增`
+
+### 4. Boundary 界线
+
+![Boundary](https://cdn.remixcdn.com/image/boundary-cover.png)
+
+> Boundary 是一款无阴影的皮肤，文字候选框与背景在视觉上紧密贴合，采用深色边框构成界线以区分候选框与背景，即使在色彩杂乱的背景上亦能清晰定位内容焦点，构成视觉饱和的同时不失简洁优雅，甚至还稍微有点复古。设计思路来自 Testdog 同学的 [建议](https://github.com/xiaochunjimmy/Sogou-Input-Skin/issues/3)。
+
+</br>
+
+### 5. Matrix 矩阵
+
+![Boundary](https://cdn.remixcdn.com/image/matrix-cover.png)
+
+> Matrix 名称和风格取自同名电影《Matrix 黑客帝国》，因此风格设定也比较有极客色彩。严格来说，这并不是一款针对夜间模式的皮肤，一方面搜狗输入法并没有针对页面模式的皮肤自动适配能力，而为了夜间模式手动切换输入法皮肤其实也是一个比较反人类的交互行为；另一方面很多用户即使在白天也喜欢使用 Dark Mode 深色模式，因此皮肤的配色并不是完全针对夜间场景进行适配的，稍微加强了对比度和饱和度，又重新调整了黑客帝国代码绿的色相，使得皮肤看起来更具设计感。
+
+
+
 ## 使用方法
 
-方法一：下载本项目，找到 mssf 文件，双击即可完成皮肤安装和切换。
+方法一：下载[本项目](https://github.com/xiaochunjimmy/Sogou-Input-Skin)，找到 mssf 文件，双击即可完成皮肤安装和切换。
 
 方法二：如果方法一没有成功，可以通过打开搜狗输入法的的 [偏好设置]，然后在最顶部 Tab 栏选择 [外观]，然后点击左下角的 [+] 加号按钮，从本地目录里选择 mssf 文件就可以了（感谢 [J3n5en](https://github.com/J3n5en) 同学在 [issue](https://github.com/xiaochunjimmy/Sogou-Input-Skin/issues/1) 中提醒）。
 
@@ -48,9 +66,9 @@
 
 1. 在finder浏览器下按 `Command` + `Shift` + `G` 打开跳转窗口，然后在文本框内输入 `/Library/Input Methods/SogouInput.app/Contents/Resources` 后敲回车，就打开了搜狗输入法的资源文件目录。
 
-2.  在目录中找到 `SystemSkins.plist`，替换为[本压缩包里的同名文件](https://cdn.zhangxiaochun.com/resources/SystemSkins.plist.zip)即可。
+2.  将目录中的 `SystemSkins.plist`，替换为本项目中的[同名文件](https://github.com/xiaochunjimmy/Sogou-Input-Skin/blob/master/SystemSkins.plist)，替换后重新切换一下皮肤即可。
 
-   > 本文件是在最新的（2019年5月12日）白名单皮肤基础上，添加了以上三个皮肤。其他没有修改。
+   > 本文件是在最新的（2019年5月12日）白名单皮肤基础上，添加了以上几个皮肤。其他没有修改。或者你也可以提前备份一下原来的文件。
 
 </br>
 
@@ -76,6 +94,8 @@
 
 </br>
 
-## 开源精神也需要精神支持
+## 精神支持
 
-如果你喜欢我的皮肤，可以在 GitHub 本项目右上角点一下 Star 来支持我（Star 一般用于支持，也常被 GitHub 用户作为收藏操作）。
+如果你喜欢我的皮肤，可以在 GitHub 本项目右上角点一下 Star 来支持我（Star 一般用于支持，也常被 GitHub 用户作为收藏操作），开源精神也需要精神支持 😜。
+
+> 如果没有 GitHub 账号，建议注册一个，将来可能会经常用到，你应该也已经发现，GitHub 正逐步从工程师的世界走向大众视野。
