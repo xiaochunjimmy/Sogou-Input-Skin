@@ -50,7 +50,7 @@
 
 > Matrix 名称和风格取自同名电影《Matrix 黑客帝国》，因此风格设定也比较有极客色彩。严格来说，这并不是一款针对夜间模式的皮肤，一方面搜狗输入法并没有针对页面模式的皮肤自动适配能力，而为了夜间模式手动切换输入法皮肤其实也是一个比较反人类的交互行为；另一方面很多用户即使在白天也喜欢使用 Dark Mode 深色模式，因此皮肤的配色并不是完全针对夜间场景进行适配的，稍微加强了对比度和饱和度，又重新调整了黑客帝国代码绿的色相，使得皮肤看起来更具设计感。
 
-
+</br>
 
 ## 使用方法
 
@@ -66,7 +66,7 @@
 
 1. 在finder浏览器下按 `Command` + `Shift` + `G` 打开跳转窗口，然后在文本框内输入 `/Library/Input Methods/SogouInput.app/Contents/Resources` 后敲回车，就打开了搜狗输入法的资源文件目录。
 
-2. 将资源目录中的 `SystemSkins.plist`，替换为本项目列表中的[同名文件 SystemSkins.plist](https://github.com/xiaochunjimmy/Sogou-Input-Skin/blob/master/SystemSkins.plist)，替换后重新切换一下皮肤即可。
+2. 将资源目录中的 `SystemSkins.plist`，替换为本项目列表中的同名文件 [SystemSkins.plist](https://github.com/xiaochunjimmy/Sogou-Input-Skin/blob/master/SystemSkins.plist)，替换后重新切换一下皮肤即可。
 
    > 本文件是在最新的（2019年5月12日）白名单皮肤基础上，添加了以上几个皮肤。其他没有修改。或者你也可以提前备份一下原来的文件。
 
@@ -97,5 +97,3 @@
 ## 精神支持
 
 如果你喜欢我的皮肤，可以在 GitHub 本项目右上角点一下 Star 来支持我（Star 一般用于支持，也常被 GitHub 用户作为收藏操作），开源精神也需要精神支持 😜。
-
-> 如果没有 GitHub 账号，建议注册一个，将来可能会经常用到，你应该也已经发现，GitHub 正逐步从工程师的世界走向大众视野。
