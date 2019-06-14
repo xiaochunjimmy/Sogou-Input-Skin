@@ -1,6 +1,6 @@
-> 注意：仅支持Mac版！
->
 > 自用的搜狗拼音输入法皮肤，重新对素材进行了无损压缩，调整了细节，分享给大家。
+>
+> 🎉 `2019年6月14日更新`新增 Windows 版输入法皮肤！感谢 [jrfeng](https://github.com/jrfeng) ~ 
 
 </br>
 
@@ -54,15 +54,17 @@
 
 ## 使用方法
 
-方法一：下载[本项目](https://github.com/xiaochunjimmy/Sogou-Input-Skin)，找到 mssf 文件，双击即可完成皮肤安装和切换。
+方法一：下载[本项目](https://github.com/xiaochunjimmy/Sogou-Input-Skin)，Mac 版用户请找到 mssf 文件，双击即可完成皮肤安装和切换。
+
+> Windows 版请在 [for_windows](https://github.com/xiaochunjimmy/Sogou-Input-Skin/tree/master/for_windows) 文件夹下找对应的 ssf 文件。
 
 方法二：如果方法一没有成功，可以通过打开搜狗输入法的的 [偏好设置]，然后在最顶部 Tab 栏选择 [外观]，然后点击左下角的 [+] 加号按钮，从本地目录里选择 mssf 文件就可以了（感谢 [J3n5en](https://github.com/J3n5en) 同学在 [issue](https://github.com/xiaochunjimmy/Sogou-Input-Skin/issues/1) 中提醒）。
 
-完成上面的部分，基本的安装工作就已经完成了，如果你使用搜狗输入法的卷轴模式的话，可以往下看：
+完成上面的部分，基本的安装工作就已经完成了，如果你使用 Mac 搜狗输入法的卷轴模式的话，可以往下看：
 
 > 搜狗输入法设定为：只有在皮肤商店上架（白名单）的皮肤在 “卷轴模式” 下才能完美展示，否则下拉卷轴展示效果稍微不太美观 ；而上架皮肤商店需要审核，到目前为止还没有收到审核通过的消息。所以如果你希望本皮肤在 “卷轴模式” 下完美展示，可以通过手动修改本地白名单的方式来进行。
 
-修改白名单方法：
+Mac 修改白名单方法：
 
 1. 在finder浏览器下按 `Command` + `Shift` + `G` 打开跳转窗口，然后在文本框内输入 `/Library/Input Methods/SogouInput.app/Contents/Resources` 后敲回车，就打开了搜狗输入法的资源文件目录。
 
