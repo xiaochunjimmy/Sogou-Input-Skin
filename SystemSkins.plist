@@ -4,6 +4,12 @@
 <array>
 	<dict>
 		<key>SkinName</key>
+		<string>Default</string>
+		<key>SkinID</key>
+		<string>m3</string>
+	</dict>
+	<dict>
+		<key>SkinName</key>
 		<string>纸飞机</string>
 		<key>SkinID</key>
 		<string>m9</string>
@@ -96,12 +102,6 @@
 		<key>SkinName</key>
 		<string></string>
 		<key>SkinID</key>
-		<string>513909</string>
-	</dict>
-	<dict>
-		<key>SkinName</key>
-		<string></string>
-		<key>SkinID</key>
 		<string>507166</string>
 	</dict>
 	<dict>
@@ -127,12 +127,6 @@
 		<string></string>
 		<key>SkinID</key>
 		<string>507187</string>
-	</dict>
-	<dict>
-		<key>SkinName</key>
-		<string></string>
-		<key>SkinID</key>
-		<string>513903</string>
 	</dict>
 	<dict>
 		<key>SkinName</key>
@@ -204,25 +198,7 @@
 		<key>SkinName</key>
 		<string></string>
 		<key>SkinID</key>
-		<string>507186</string>
-	</dict>
-	<dict>
-		<key>SkinName</key>
-		<string></string>
-		<key>SkinID</key>
-		<string>424302</string>
-	</dict>
-	<dict>
-		<key>SkinName</key>
-		<string></string>
-		<key>SkinID</key>
 		<string>507165</string>
-	</dict>
-	<dict>
-		<key>SkinName</key>
-		<string></string>
-		<key>SkinID</key>
-		<string>459433</string>
 	</dict>
 	<dict>
 		<key>SkinName</key>
@@ -294,19 +270,7 @@
 		<key>SkinName</key>
 		<string></string>
 		<key>SkinID</key>
-		<string>467353</string>
-	</dict>
-	<dict>
-		<key>SkinName</key>
-		<string></string>
-		<key>SkinID</key>
 		<string>468458</string>
-	</dict>
-	<dict>
-		<key>SkinName</key>
-		<string></string>
-		<key>SkinID</key>
-		<string>476467</string>
 	</dict>
 	<dict>
 		<key>SkinName</key>
@@ -354,18 +318,6 @@
 		<key>SkinName</key>
 		<string></string>
 		<key>SkinID</key>
-		<string>476467</string>
-	</dict>
-	<dict>
-		<key>SkinName</key>
-		<string></string>
-		<key>SkinID</key>
-		<string>424741</string>
-	</dict>
-	<dict>
-		<key>SkinName</key>
-		<string></string>
-		<key>SkinID</key>
 		<string>441048</string>
 	</dict>
 	<dict>
@@ -373,12 +325,6 @@
 		<string></string>
 		<key>SkinID</key>
 		<string>441063</string>
-	</dict>
-	<dict>
-		<key>SkinName</key>
-		<string></string>
-		<key>SkinID</key>
-		<string>450876</string>
 	</dict>
 	<dict>
 		<key>SkinName</key>
@@ -409,12 +355,6 @@
 		<string></string>
 		<key>SkinID</key>
 		<string>507127</string>
-	</dict>
-	<dict>
-		<key>SkinName</key>
-		<string>Tron</string>
-		<key>SkinID</key>
-		<string></string>
 	</dict>
 	<dict>
 		<key>SkinName</key>

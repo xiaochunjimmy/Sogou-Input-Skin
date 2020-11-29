@@ -1,5 +1,7 @@
 > 自用的搜狗拼音输入法皮肤，重新对素材进行了无损压缩，调整了细节，分享给大家。
 >
+> 🎉 `2020年11月29日更新` 在 v1.3 中修复了苹果系统更新导致的 5 款皮肤候选项和翻页箭头不居中的问题，感谢 [Hugh Sun](https://github.com/Vergegung)的反馈并邮件提供了部分调整支持！❤️
+>
 > 🎉 `2019年6月14日更新` 新增 Windows 版输入法皮肤，[预览图](./for_windows/skin_preview.md)，感谢 [jrfeng](https://github.com/jrfeng) ！❤️
 
 </br>
@@ -54,23 +56,31 @@
 
 ## 使用方法
 
-方法一：下载[本项目](https://github.com/xiaochunjimmy/Sogou-Input-Skin)，Mac 版用户请找到 mssf 文件，双击即可完成皮肤安装和切换。
+**方法一**：下载[本项目](https://github.com/xiaochunjimmy/Sogou-Input-Skin)，Mac 版用户请找到 mssf 文件，双击即可完成皮肤安装和切换。
 
 > Windows 版请在 [for_windows](https://github.com/xiaochunjimmy/Sogou-Input-Skin/tree/master/for_windows) 文件夹下找对应的 ssf 文件。
 
-方法二：如果方法一没有成功，可以通过打开搜狗输入法的的 [偏好设置]，然后在最顶部 Tab 栏选择 [外观]，然后点击左下角的 [+] 加号按钮，从本地目录里选择 mssf 文件就可以了（感谢 [J3n5en](https://github.com/J3n5en) 同学在 [issue](https://github.com/xiaochunjimmy/Sogou-Input-Skin/issues/1) 中提醒）。
+**方法二**：如果方法一没有成功，可以通过打开搜狗输入法的的 [偏好设置]，然后在最顶部 Tab 栏选择 [外观]，然后点击左下角的 [+] 加号按钮，从本地目录里选择 mssf 文件就可以了，也可以直接拖动 mssf 皮肤文件直接到 [外观] 设置项的面板中（感谢 [J3n5en](https://github.com/J3n5en) 同学在 [issue](https://github.com/xiaochunjimmy/Sogou-Input-Skin/issues/1) 中提醒）。
 
-完成上面的部分，基本的安装工作就已经完成了，如果你使用 Mac 搜狗输入法的卷轴模式的话，可以往下看：
+**附：下拉候选项样式异常解决办法**
+
+安装过后，你可能会发现使用 Mac 搜狗输入法的卷轴模式的话，会出现样式异常问题，类似下图（以Boundary 皮肤为例）：
+
+![卷轴模式样式异常](https://cdn.remixcdn.com/image/sougou-bug.png)
 
 > 搜狗输入法设定为：只有在皮肤商店上架（白名单）的皮肤在 “卷轴模式” 下才能完美展示，否则下拉卷轴展示效果稍微不太美观 ；而上架皮肤商店需要审核，到目前为止还没有收到审核通过的消息。所以如果你希望本皮肤在 “卷轴模式” 下完美展示，可以通过手动修改本地白名单的方式来进行。
 
-Mac 修改白名单方法：
+**Mac 修改白名单方法：**
 
-1. 在finder浏览器下按 `Command` + `Shift` + `G` 打开跳转窗口，然后在文本框内输入 `/Library/Input Methods/SogouInput.app/Contents/Resources` 后敲回车，就打开了搜狗输入法的资源文件目录。
+1. 打开 finder，然后在 finder 浏览器下按 `Command` + `Shift` + `G` 打开跳转窗口，然后在文本框内输入 `/Library/Input Methods/SogouInput.app/Contents/Resources` 后敲回车，就打开了搜狗输入法的资源文件目录。
 
 2. 将资源目录中的 `SystemSkins.plist`，替换为本项目列表中的同名文件 [SystemSkins.plist](https://github.com/xiaochunjimmy/Sogou-Input-Skin/blob/master/SystemSkins.plist)，替换后重新切换一下皮肤即可。
 
-   > 本文件是在最新的（2019年5月12日）白名单皮肤基础上，添加了以上几个皮肤。其他没有修改。或者你也可以提前备份一下原来的文件。
+   > 本文件是在最新的（2020年11月29日）白名单皮肤基础上，添加了以上几个皮肤。其他没有修改。或者你也可以提前备份一下原来的文件，自己手动添加以上皮肤。
+
+替换上述文件并重新切换激活皮肤之后，卷轴模式下拉候选项的样式应该变成这样了：
+
+![卷轴模式样式正常](https://cdn.remixcdn.com/image/sougou-normal.png)
 
 </br>
 
@@ -92,10 +102,11 @@ Mac 修改白名单方法：
 
 可以使用上面的皮肤编辑器打开我的皮肤.mssf文件，在此基础上二次调整。也可以参考我的皮肤尺寸进行素材的设计。
 
-如果还有什么疑问，或者有什么建议，可以在 GitHub 上 创建 issue来反馈提问。也可以到 [Spectrum]( https://spectrum.chat/remixdesign?tab=chat) 同我交流，这是一个类似于 Slack 的在 Team 线沟通工具。
+如果还有什么疑问，或者有什么建议，可以在 GitHub 上 创建 issue来反馈提问。
 
 </br>
 
 ## 精神支持
 
 如果你喜欢我的皮肤，可以在 GitHub 本项目右上角点一下 Star 来支持我（Star 一般用于支持，也常被 GitHub 用户作为收藏操作），开源精神也需要精神支持 😜。
+
