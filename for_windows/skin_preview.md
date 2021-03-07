@@ -26,6 +26,10 @@
 
 ![matrix_preview](./image_preview/matrix.png)
 
+### 6. Carbon 炭黑
+
+![carbon_preview](./image_preview/carbon.png)
+
 ---
 
 # End
