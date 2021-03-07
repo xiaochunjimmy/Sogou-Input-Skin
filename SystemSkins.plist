@@ -386,5 +386,11 @@
 		<key>SkinID</key>
 		<string></string>
 	</dict>
+	<dict>
+		<key>SkinName</key>
+		<string>Carbon</string>
+		<key>SkinID</key>
+		<string></string>
+	</dict>
 </array>
 </plist>

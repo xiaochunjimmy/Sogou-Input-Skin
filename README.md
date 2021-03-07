@@ -1,5 +1,7 @@
 > 自用的搜狗拼音输入法皮肤，重新对素材进行了无损压缩，调整了细节，分享给大家。
 >
+> 🎉 `2021年03月07日更新` 新增 Carbon 石墨皮肤风格；
+>
 > 🎉 `2020年11月29日更新` 在 v1.3 中修复了苹果系统更新导致的 5 款皮肤候选项和翻页箭头不居中的问题，感谢 [Hugh Sun](https://github.com/Vergegung)的反馈并邮件提供了部分调整支持！❤️
 >
 > 🎉 `2019年6月14日更新` 新增 Windows 版输入法皮肤，[预览图](./for_windows/skin_preview.md)，感谢 [jrfeng](https://github.com/jrfeng) ！❤️
@@ -36,8 +38,6 @@
 
 </br>
 
-`2019年6月13日新增`
-
 ### 4. Boundary 界线
 
 ![Boundary](https://cdn.remixcdn.com/image/boundary-cover.png)
@@ -48,9 +48,16 @@
 
 ### 5. Matrix 矩阵
 
-![Boundary](https://cdn.remixcdn.com/image/matrix-cover.png)
+![Matrix](https://cdn.remixcdn.com/image/matrix-cover.png)
 
 > Matrix 名称和风格取自同名电影《Matrix 黑客帝国》，因此风格设定也比较有极客色彩。严格来说，这并不是一款针对夜间模式的皮肤，一方面搜狗输入法并没有针对页面模式的皮肤自动适配能力，而为了夜间模式手动切换输入法皮肤其实也是一个比较反人类的交互行为；另一方面很多用户即使在白天也喜欢使用 Dark Mode 深色模式，因此皮肤的配色并不是完全针对夜间场景进行适配的，稍微加强了对比度和饱和度，又重新调整了黑客帝国代码绿的色相，使得皮肤看起来更具设计感。
+
+</br>
+
+### 6. Carbon 碳黑
+![Carbon](https://cdn.remixcdn.com/image/carbon-cover.png)
+
+> Carbon 碳黑，参照石墨风格制作的深色模式，喜欢石墨又喜欢用深色模式系统的同学可以试试，还不是很成熟，有时间再慢慢优化；
 
 </br>
 
