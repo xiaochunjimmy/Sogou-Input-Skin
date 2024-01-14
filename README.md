@@ -1,6 +1,8 @@
 > 自用的搜狗拼音输入法皮肤，重新对素材进行了无损压缩，调整了细节，分享给大家。
 >
-> 🔧 `2022年10月06日更新` 在 v1.4 中修复了系统/输入法更新导致的皮肤候选项和翻页箭头不居中的问题；新增 Figma 设计稿；
+> 🔧 `2024年01月14日更新` 修正了 GitHub Repo 中缩略图链接损坏的问题；新增 Figma 设计稿地址；
+>
+> 🔧 `2022年10月06日更新` 在 v1.4 中修复了系统/输入法更新导致的皮肤候选项和翻页箭头不居中的问题；
 >
 > 🎉 `2021年03月07日更新` 新增 Carbon 碳黑皮肤风格；
 >
@@ -18,7 +20,7 @@
 
 ### 1. Tron 创
 
-![Tron](https://cdn.remixcdn.com/image/tron-cover.png)
+![Tron](https://raw.githubusercontent.com/xiaochunjimmy/Sogou-Input-Skin/master/Images/tron-cover.png)
 
 > Tron 是我使用最久的一款皮肤，名称源自于我非常喜欢的一部视觉大片《Tron: Legacy》(中文名称《创: 战纪》)，如果用两个颜色来代表科技感，那么它一定是蓝色和白色，正如《Tron》系列。色彩上采用饱和度较高的蓝色，彰显其个性与特点。
 
@@ -26,7 +28,7 @@
 
 ### 2. Tangerine 橘色
 
-![Tangerine](https://cdn.remixcdn.com/image/tangerine-cover.png)
+![Tangerine](https://raw.githubusercontent.com/xiaochunjimmy/Sogou-Input-Skin/master/Images/tangerine-cover.png)
 
 > Tangerine 名称取自于同名电影《Tangerine》(中文名称《橘色》)，比较值得一提的是，本电影全程用 iPhone5s 拍摄，后期通过手机 App 进行调色。并不是因为导演像陈可辛、贾樟柯一样在给苹果打广告，是因为导演真穷，买不起专业设备，可能连防抖云台都买不起，所以画面也有点抖。题材比较敏感，剧情不好评价，感兴趣的小伙伴自己感受一下。
 
@@ -34,7 +36,7 @@
 
 ### 3. Graphite 石墨
 
-![Graphite](https://cdn.remixcdn.com/image/graphite-cover.png)
+![Graphite](https://raw.githubusercontent.com/xiaochunjimmy/Sogou-Input-Skin/master/Images/graphite-cover.png)
 
 > Graphite 石墨 是最近才制作的皮肤，也是我最近一直在用的皮肤，它的设计初衷就是“尽可能简单”，希望最终呈现给用户的感受是“没有设计”，就像毫尖蘸墨轻拂宣纸一般自然纯粹，配色采用黑与白（考虑对比度过于强烈带来的视觉疲劳，没有采用纯黑），黑如墨，白如纸，取名石墨。
 
@@ -42,7 +44,7 @@
 
 ### 4. Boundary 界线
 
-![Boundary](https://cdn.remixcdn.com/image/boundary-cover.png)
+![Boundary](https://raw.githubusercontent.com/xiaochunjimmy/Sogou-Input-Skin/master/Images/boundary-cover.png)
 
 > Boundary 是一款无阴影的皮肤，文字候选框与背景在视觉上紧密贴合，采用深色边框构成界线以区分候选框与背景，即使在色彩杂乱的背景上亦能清晰定位内容焦点，构成视觉饱和的同时不失简洁优雅，甚至还稍微有点复古。设计思路来自 Testdog 同学的 [建议](https://github.com/xiaochunjimmy/Sogou-Input-Skin/issues/3)。
 
@@ -50,14 +52,14 @@
 
 ### 5. Matrix 矩阵
 
-![Matrix](https://cdn.remixcdn.com/image/matrix-cover.png)
+![Matrix](https://raw.githubusercontent.com/xiaochunjimmy/Sogou-Input-Skin/master/Images/matrix-cover.png)
 
 > Matrix 名称和风格取自同名电影《Matrix 黑客帝国》，因此风格设定也比较有极客色彩。严格来说，这并不是一款针对夜间模式的皮肤，一方面搜狗输入法并没有针对页面模式的皮肤自动适配能力，而为了夜间模式手动切换输入法皮肤其实也是一个比较反人类的交互行为；另一方面很多用户即使在白天也喜欢使用 Dark Mode 深色模式，因此皮肤的配色并不是完全针对夜间场景进行适配的，稍微加强了对比度和饱和度，又重新调整了黑客帝国代码绿的色相，使得皮肤看起来更具设计感。
 
 </br>
 
 ### 6. Carbon 碳黑
-![Carbon](https://cdn.remixcdn.com/image/carbon-cover.png)
+![Carbon](https://raw.githubusercontent.com/xiaochunjimmy/Sogou-Input-Skin/master/Images/carbon-cover.png)
 
 > Carbon 碳黑，参照石墨风格制作的深色模式，喜欢石墨又喜欢用深色模式系统的同学可以试试，还不是很成熟，有时间再慢慢优化；
 
@@ -75,7 +77,7 @@
 
 安装过后，你可能会发现使用 Mac 搜狗输入法的卷轴模式的话，会出现样式异常问题，类似下图（以Boundary 皮肤为例）：
 
-![卷轴模式样式异常](https://cdn.remixcdn.com/image/sougou-bug.png)
+![卷轴模式样式异常](https://raw.githubusercontent.com/xiaochunjimmy/Sogou-Input-Skin/master/Images/sougou-bug.png)
 
 > 搜狗输入法设定为：只有在皮肤商店上架（白名单）的皮肤在 “卷轴模式” 下才能完美展示，否则下拉卷轴展示效果稍微不太美观 ；而上架皮肤商店需要审核，到目前为止还没有收到审核通过的消息。所以如果你希望本皮肤在 “卷轴模式” 下完美展示，可以通过手动修改本地白名单的方式来进行。
 
@@ -89,7 +91,7 @@
 
 替换上述文件并重新切换激活皮肤之后，卷轴模式下拉候选项的样式应该变成这样了：
 
-![卷轴模式样式正常](https://cdn.remixcdn.com/image/sougou-normal.png)
+![卷轴模式样式正常](https://raw.githubusercontent.com/xiaochunjimmy/Sogou-Input-Skin/master/Images/sougou-normal.png)
 
 </br>
 
@@ -100,6 +102,8 @@
 设计软件：[Figma](https://www.figma.com)
 
 > 用于绘制和导出皮肤需要的基本素材，你也可以使用 Sketch、Photoshop 或 Illustrator等其他设计软件（最早使用的 Sketch 进行绘制，近期导入到 Figma 分享和管理，从零开始学习 UI 设计软件的话，推荐 Figma）
+>
+> 本项目 Figma 设计稿地址：[Sogou-Input-Skin](https://www.figma.com/file/UJaitBjC4zvEKKfkKKYKzL/Sogou-Input-Skin?type=design&node-id=0%3A1&mode=design&t=sdNgVceT4A04V52r-1) （请不要申请编辑权限，复制一份到自己的草稿中编辑）
 
 压缩工具：[image-optim](https://imageoptim.com)
 
