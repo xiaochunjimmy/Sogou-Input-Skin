@@ -1,4 +1,7 @@
+
 > 自用的搜狗拼音输入法皮肤，重新对素材进行了无损压缩，调整了细节，分享给大家。
+>
+> 🎉 `2024年10月20日更新` 新增 Verdant 青葱皮肤风格；
 >
 > 🔧 `2024年01月14日更新` 修正了 GitHub Repo 中缩略图链接损坏的问题；新增 Figma 设计稿地址；
 >
@@ -9,6 +12,7 @@
 > 🎉 `2020年11月29日更新` 在 v1.3 中修复了苹果系统更新导致的 5 款皮肤候选项和翻页箭头不居中的问题，感谢 [Hugh Sun](https://github.com/Vergegung)的反馈并邮件提供了部分调整支持！❤️
 >
 > 🎉 `2019年6月14日更新` 新增 Windows 版输入法皮肤，[预览图](./for_windows/skin_preview.md)，感谢 [jrfeng](https://github.com/jrfeng) ！❤️
+
 
 </br>
 
@@ -59,11 +63,20 @@
 </br>
 
 ### 6. Carbon 碳黑
+
 ![Carbon](https://raw.githubusercontent.com/xiaochunjimmy/Sogou-Input-Skin/master/Images/carbon-cover.png)
 
 > Carbon 碳黑，参照石墨风格制作的深色模式，喜欢石墨又喜欢用深色模式系统的同学可以试试，还不是很成熟，有时间再慢慢优化；
 
-</br>
+`</br>`
+
+### 7. Verdant 青葱
+
+https://raw.githubusercontent.com/xiaochunjimmy/Sogou-Input-Skin/master/Images/verdant-cover.png
+
+> Verdant 青葱，按照 Apple 近期设计语言设计的一款大圆角皮肤，选用青绿色，为你高压的工作中带来一丝丝清爽，伴你忆起那无忧无虑的青葱岁月。
+
+
 
 ## 使用方法
 
@@ -84,10 +97,10 @@
 **Mac 修改白名单方法：**
 
 1. 打开 finder，然后在 finder 浏览器下按 `Command` + `Shift` + `G` 打开跳转窗口，然后在文本框内输入 `/Library/Input Methods/SogouInput.app/Contents/Resources` 后敲回车，就打开了搜狗输入法的资源文件目录。
-
 2. 将资源目录中的 `SystemSkins.plist`，替换为本项目列表中的同名文件 [SystemSkins.plist](https://github.com/xiaochunjimmy/Sogou-Input-Skin/blob/master/SystemSkins.plist)，替换后重新切换一下皮肤即可。
 
    > 本文件是在最新的（2022年10月07日）白名单皮肤基础上，添加了以上几个皮肤。其他没有修改。或者你也可以提前备份一下原来的文件，自己手动添加以上皮肤。
+   >
 
 替换上述文件并重新切换激活皮肤之后，卷轴模式下拉候选项的样式应该变成这样了：
 
@@ -122,4 +135,3 @@
 ## 精神支持
 
 如果你喜欢我的皮肤，可以在 GitHub 本项目右上角点一下 Star 来支持我（Star 一般用于支持，也常被 GitHub 用户作为收藏操作），开源精神也需要精神支持 😜。
-
