@@ -72,7 +72,8 @@
 
 ### 7. Verdant 青葱
 
-https://raw.githubusercontent.com/xiaochunjimmy/Sogou-Input-Skin/master/Images/verdant-cover.png
+![Verdant](https://raw.githubusercontent.com/xiaochunjimmy/Sogou-Input-Skin/master/Images/verdant-cover.png)
+
 
 > Verdant 青葱，按照 Apple 近期设计语言设计的一款大圆角皮肤，选用青绿色，为你高压的工作中带来一丝丝清爽，伴你忆起那无忧无虑的青葱岁月。
 
