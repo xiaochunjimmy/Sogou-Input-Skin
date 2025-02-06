@@ -30,6 +30,10 @@
 
 ![carbon_preview](./image_preview/carbon.png)
 
+### 7. Verdant 青葱
+
+![carbon_preview](./image_preview/verdant.png)
+
 ---
 
 # End
