@@ -1,5 +1,6 @@
-
 > 自用的搜狗拼音输入法皮肤，重新对素材进行了无损压缩，调整了细节，分享给大家。
+>
+> 🔧 `2025年10月07日更新` 在 v1.5 中修复了搜狗之前大版本更新导致的的肤候选项不垂直居中的问题，以及 Tron 和 Tangerine 距离候选项间距过大的问题；
 >
 > 🎉 `2024年10月20日更新` 新增 Verdant 青葱皮肤风格；
 >
@@ -12,7 +13,6 @@
 > 🎉 `2020年11月29日更新` 在 v1.3 中修复了苹果系统更新导致的 5 款皮肤候选项和翻页箭头不居中的问题，感谢 [Hugh Sun](https://github.com/Vergegung)的反馈并邮件提供了部分调整支持！❤️
 >
 > 🎉 `2019年6月14日更新` 新增 Windows 版输入法皮肤，[预览图](./for_windows/skin_preview.md)，感谢 [jrfeng](https://github.com/jrfeng) ！❤️
-
 
 </br>
 
@@ -74,10 +74,7 @@
 
 ![Verdant](https://raw.githubusercontent.com/xiaochunjimmy/Sogou-Input-Skin/master/Images/verdant-cover.png)
 
-
 > Verdant 青葱，按照 Apple 近期设计语言设计的一款大圆角皮肤，选用青绿色，为你高压的工作中带来一丝丝清爽，伴你忆起那无忧无虑的青葱岁月。
-
-
 
 ## 使用方法
 
